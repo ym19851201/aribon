@@ -1,2 +1,7 @@
 *~
 *.swp
+/spec/spec_helper.rb
+/vendor/
+/Gemfile.lock
+/.bundle/
+/.rspec
